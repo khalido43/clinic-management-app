@@ -1,1 +1,1 @@
-# Loan-collection-app
+# clinic-management-app
